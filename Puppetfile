@@ -19,4 +19,4 @@ mod 'account',
 
 mod 'minecraft',
   :git => 'git://github.com/andschwa/puppet-minecraft',
-  :ref => 'v2.1.6'
+  
